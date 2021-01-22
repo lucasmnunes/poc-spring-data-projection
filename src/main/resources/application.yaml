@@ -1,0 +1,9 @@
+server:
+  servlet:
+    context-path: /projection
+
+spring:
+  h2:
+    console:
+      enabled: true
+      path: /h2
