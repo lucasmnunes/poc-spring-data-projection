@@ -1,4 +1,4 @@
-# Srping Data Projections
+# Spring Data Projections
 A POC that creates projections using Spring Data, modeling dedicated return types, retrieving partial view of entities/models.
 
 ### Tech:
