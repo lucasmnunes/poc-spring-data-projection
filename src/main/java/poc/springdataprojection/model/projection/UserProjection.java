@@ -7,6 +7,6 @@ public interface UserProjection {
     String getLogin();
     UserProfile getProfile();
     Boolean getActive();
-    PersonProjection getPerson();
+    String getPersonName();
 
 }
